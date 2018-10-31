@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo');
+
+div {
+	border-radius: 10px;
+	margin: auto;
+	margin-bottom: 15px;
+	width: 120px;
+	height: 120px;
+	border: 2px solid #606060;
+	font-family: 'Baloo', cursive;
+	font-size: 36px;
+	text-align: center;
+	line-height: 120px;
+
+}
+
+#par {
+	background-color: #dfedd6;
+}
+
+#impar {
+	background-color: #f7fade;
+}
